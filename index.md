@@ -31,7 +31,7 @@
 - 이미지  
 <img src="./img/관련이미지.jpg">
 - 동영상
-[![](./img/그림.jpg)](https://www.youtube.com/watch?v=kkxdroYZ0CU&t=877s)
+[![그림](./img/그림.jpg)](https://www.youtube.com/watch?v=kkxdroYZ0CU&t=877s)
 
 <br><br>
 # [대표 이미지]
